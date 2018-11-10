@@ -2,7 +2,7 @@
 
 # Flask Tutorial - Blog
 
-A Blog - Flask app
+A Personal Blog built using Flask framework - To articulate and share some of my learnings and experiences
 
 ## Getting Started
 
